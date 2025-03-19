@@ -1,1 +1,1 @@
-Sprites taht I made that are shit
+Sprites that I made in Aseprite (most of the files are Aseprite Projects)
